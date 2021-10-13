@@ -1,3 +1,15 @@
+**WARNING! Backuped binaries in releases, contains keystealer, inside.**
+Do not run this, but decompile it, and see what it's make exactly.
+
+![image](https://user-images.githubusercontent.com/39200328/137219951-f57a5506-3ffc-49a2-b4a5-75bb5c181dda.png)
+![image](https://user-images.githubusercontent.com/39200328/137219980-17f1e622-0b01-4993-a85c-2fa3ce82a1b0.png)
+
+Check binaries on https://virustotal.com/
+
+For example, this one: https://www.virustotal.com/gui/file/c1bec73049c3873185e164ef4c91f5e83efd42a86aa7680f22b0980929ae8974
+
+________________________
+
 ### Coin Specification
 
 * Name: Sheet
